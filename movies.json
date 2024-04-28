@@ -1,0 +1,30 @@
+
+
+[
+    {
+        "id": 1,
+        "title": "Le bruit et la fureur",
+        "genre": "romance",
+        "synopsis": "........................",
+        "year": 1976,
+        "director": "William Faulkner"
+    },
+    {
+        "id": 2,
+        "title":  "les tactic de l'amour",
+        "genre": "romance",
+        "synopsis": "ca parle d'amour",
+        "year": 2023,
+        "director": "inconu"
+    },
+    {
+        "id": 3,
+        "title": "le seigneur des Anneaux",
+        "genre": "Fantasy",
+        "synopsis": "ca parle d'amour",
+        "year": 1954,
+        "director": "Victor Hugo"
+    }
+  
+
+]
